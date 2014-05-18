@@ -1,0 +1,18 @@
+int     main(   )
+
+{
+	//read two numbers
+	int    x  ,  y  ;
+	cout<<   "Enter two numbers:";
+	cin>>x>>y;
+
+
+	//compute the average of x and y
+	int total = x + y; // compute x+y
+	float average = total / 2. ;
+
+	//terminate program
+	return 0;
+
+
+}

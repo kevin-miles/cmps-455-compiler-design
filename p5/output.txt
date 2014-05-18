@@ -1,0 +1,9 @@
+int main ( )
+{
+	int x , y ;
+	cout<< "Enter two numbers:" ;
+	cin>> x >> y ;
+	int total = x + y ; 
+	float average = total / 2. ;
+	return 0 ;
+}

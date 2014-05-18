@@ -1,0 +1,1 @@
+Don’t use if else statements. This is just because I ran out of time and had to get the project done. Use the damn state table if time allows.
